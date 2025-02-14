@@ -1,0 +1,44 @@
+
+/*{
+    background-color: rgb(184, 228, 184);
+}
+
+*/
+
+
+h1{
+    color: rgb(0, 72, 255);
+}
+.face{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(161, 199, 251);
+}
+h3{
+    padding-top: 40px;
+}
+.email{
+    height: 30px;
+    width: 300px;
+}
+.pass{
+    height: 30px;
+    width: 300px;
+}
+.butn{
+    height: 30px;
+    width: 300px;
+    background-color: rgb(88, 88, 243);
+    color: white;
+}
+.for{
+    color: blue;
+    padding-top: 10px;
+}
+.sing{
+    color: blue;
+    padding-top: 10px;
+}
+#l{
+    color:red;
+}
